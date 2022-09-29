@@ -5,3 +5,4 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairacarolini&theme=dracula&hide_border=false&&layout=compact"/>
     [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nairacaroline)
 ### Tecnologias que eu uso no meu dia a dia 
+    
